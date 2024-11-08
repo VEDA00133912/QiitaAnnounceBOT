@@ -1,0 +1,2 @@
+# QiitaAnnounceBOT
+Qiitaの新着記事の通知を行うDiscordBOT
