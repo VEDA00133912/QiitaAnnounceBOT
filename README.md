@@ -4,6 +4,7 @@ Qiitaの新着記事の通知を行うDiscordBOT
 # 機能
 - QiitaのRSSとrss-parserを使って新着記事の通知を指定したチャンネルに送信するDiscordBOT
 - RSSをQiita以外に変えれば他のもできます
+- 確認の間隔は10分にしていますが変更も可能です
 # 起動
 -  `.env` にBOTのTOKEN、通知したいチャンネルID、RSSのURLを入れて保存
 -  ```node index.js```で実行
